@@ -3,7 +3,7 @@
 describe('My Third Test Suite', function()
 {
 
-it('My First Test Case', function()
+it('Radio, checkbox, dropdown', function()
 {
 
     cy.visit("https://rahulshettyacademy.com/AutomationPractice/");

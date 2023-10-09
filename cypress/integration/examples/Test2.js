@@ -3,7 +3,7 @@
 describe('My First Test Suite', function()
 {
 
-it('My First Test Case', function()
+it('Add to Cart', function()
 {
 
     cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/");

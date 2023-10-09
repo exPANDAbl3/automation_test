@@ -3,7 +3,7 @@
 describe('My Third Test Suite', function()
 {
 
-it('My Forth Test Case', function()
+it('Pop ups', function()
 {
     cy.visit("https://rahulshettyacademy.com/AutomationPractice/");
     cy.get('#alertbtn').click()
